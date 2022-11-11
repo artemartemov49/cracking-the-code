@@ -1,4 +1,4 @@
-package com.artem;
+package com.artem.chapter1;
 
 import java.util.Arrays;
 import java.util.HashMap;
